@@ -1,1 +1,1 @@
-# ConsoleApp2
+Перенос данных из LocalDB в SQLite
